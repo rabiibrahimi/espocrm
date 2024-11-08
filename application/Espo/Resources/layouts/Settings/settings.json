@@ -49,7 +49,7 @@
             [{"name": "cleanupDeletedRecords"}, {"name": "emailAddressIsOptedOutByDefault"}],
             [{"name": "aclAllowDeleteCreated"}, {"name": "b2cMode"}],
             [{"name": "exportDisabled"}, false],
-            [{"name": "pdfEngine"}, false]
+            [{"name": "pdfEngine"}, {"name": "mapProvider"}]
         ]
 
     },

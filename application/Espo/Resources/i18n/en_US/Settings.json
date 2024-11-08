@@ -173,7 +173,8 @@
         "authIpAddressCheck": "Restrict access by IP address",
         "authIpAddressWhitelist": "IP Address Whitelist",
         "authIpAddressCheckExcludedUsers": "Users excluded from check",
-        "availableReactions": "Available Reactions"
+        "availableReactions": "Available Reactions",
+        "mapProvider": "Map Provider"
     },
     "options": {
         "authenticationMethod": {

@@ -898,6 +898,10 @@
             "type": "enum",
             "view": "views/settings/fields/pdf-engine"
         },
+        "mapProvider": {
+            "type": "enum",
+            "view": "views/settings/fields/map-provider"
+        },
         "quickSearchFullTextAppendWildcard": {
             "type": "bool",
             "tooltip": true
